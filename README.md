@@ -8,3 +8,5 @@ Variables
 Comments
 functions
 loops
+
+Need to learn bash shell
