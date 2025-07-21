@@ -1,0 +1,5 @@
+# Special Variables 0,1,2...n, * #
+
+echo Name of the script $0
+echo $1
+echo $2
