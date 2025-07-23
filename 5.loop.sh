@@ -3,7 +3,7 @@
 i=10
 while [ "$i" -gt 5 ]; do
   echo Hello World
-  $i=$(($i-1))
+  i=$(($i-1))
 done
 
 # for loop
